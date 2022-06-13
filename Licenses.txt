@@ -1,0 +1,43 @@
+This repo was originally a fork of the list of the first names and surnames by smashew.
+
+We have added some extra names and surnames according to the latest data found online.
+
+Based on `smashew/NameDatabases`:
+  - Repo link: https://github.com/smashew/NameDatabases
+  - License: The Unlicense
+  - License URL: https://github.com/smashew/NameDatabases/blob/master/LICENSE
+
+First names:
+  - https://data.gov.uk/dataset/9ebaf276-f4d5-41e9-bf22-b7ccab8cf85e/full-list-of-first-forenames-given-to-babies-registered-in-northern-ireland
+    - Title: Full list of first Forenames given to babies registered in Northern Ireland
+    - Author: OpenDataNI
+    - Description: These boys' names and girls' names lists have been collated from live Birth registrations in Northern Ireland, from 1997-2016.
+    - License: Open Government Licence
+    - Disclaimer: Contains public sector information licensed under the Open Government Licence v3.0.
+    - License URL: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+  - https://github.com/zakahmad/ArabicNameGenderFinder
+    - Title: Arabic Name Gender Finder
+    - Author: Zak Ahmad
+    - License: Unknown
+  - https://github.com/MatthiasWinkelmann/firstname-database
+    - Title: First Name Database
+    - Author: Matthias Winkelmann
+    - License: GNU Free Documentation License
+    - License URL: https://github.com/MatthiasWinkelmann/firstname-database/raw/master/LICENSE.txt
+  - https://github.com/hadley/data-baby-names
+    - Title: Data baby names
+    - Author: Hadley
+    - License: Unknown
+  - https://packetstormsecurity.com/files/101267/Arabic-Names-Dictionary.html
+    - Title: Arabic Names Dictionary
+    - Author: g33ko
+    - License: Unknown
+
+Surnames:
+  - https://github.com/merishnaSuwal/indian_surnames_data
+    - Title: Indian Surnames Data
+    - Author: Merishna Singh Suwal
+    - License: MIT License
+    - License URL: https://github.com/merishnaSuwal/indian_surnames_data/blob/master/LICENSE
+
+For licenses of name databases that were used on the original project, you can find them at https://github.com/smashew/NameDatabases/blob/master/NamesDatabases/credits.txt
