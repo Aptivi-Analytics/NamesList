@@ -4005,19 +4005,19 @@ Arola
 Arolas
 Arold
 Aron
-Aron,Aaron
+Aaron
 Arona
-Aroni,Aaron
-Aronin,Aaron
-Aronoff,Aaron
-Aronov,Aaron
-Aronow,Aaron
-Aronowitch,Aaron
-Aronowitz,Aaron
-Aronson,Aaron
+Aroni
+Aronin
+Aronoff
+Aronov
+Aronow
+Aronowitch
+Aronowitz
+Aronson
 Aronstam
 Aronstein
-Aronthal,Aaron
+Aronthal
 Arora
 Aros
 Arosa
@@ -6809,7 +6809,6 @@ Barcelo
 Barcelona
 Barcelos
 Barcena
-Barcena,
 Barcenas
 Barcenilla
 Barch
@@ -7836,7 +7835,7 @@ Beckh
 Beckhaus
 Beckhausen
 Beckhoff
-Beckhove.
+Beckhove
 Becki
 Beckinghausen
 Beckius
@@ -12719,7 +12718,7 @@ Cabanillas
 Cabanilles
 Cabano
 Cabarcos
-Cabareda,
+Cabareda
 Cabarga
 Cabarrocas
 Cabarroo
@@ -13045,7 +13044,6 @@ Callao
 Callarisa
 Callau
 Calle
-Calle,
 Callealta
 Callegari
 Calleiras
@@ -14770,7 +14768,6 @@ Cerrejon
 Cerri
 Cerrillo
 Cerro
-Cerro,
 Cerrolaza
 Cerron
 Cerros
@@ -20662,7 +20659,6 @@ Dupres
 Dupuis
 Dupuy
 Duque
-Duque,
 Duquenne
 Duquesne
 Duquesnoy
@@ -22483,7 +22479,6 @@ Endtner
 Endzelin
 Ene
 Enea
-Enea1,
 Enebral
 Eneco
 Enecoena
@@ -22491,7 +22486,6 @@ Eneev
 Enenkel
 Enenko
 Eneriz
-Eneriz,
 Enero
 Enes
 Enescu
@@ -22648,7 +22642,7 @@ Enzel
 Enzensperger
 Enzi
 Enzil
-Enzin,
+Enzin
 Enzl
 Enzlin
 Enzo
@@ -29883,7 +29877,7 @@ Graevens
 Graewe
 Graf
 Grafahrend
-Grafanato.
+Grafanato
 Grafarend
 Grafe
 Grafen
@@ -31065,7 +31059,6 @@ Guelho
 Gueli
 Guell
 Guembe
-Guembe,
 Guemes
 Guemez
 Guen
@@ -31073,7 +31066,7 @@ Guenaga
 Guenard
 Guendicabeitia
 Guenfoudi
-Guengue,
+Guengue
 Guenot
 Guenter
 Guenters
@@ -38818,7 +38811,7 @@ Jevakhov
 Jevanov
 Jeverjeev
 Jevlakov
-Jevolojnov,
+Jevolojnov
 Jevons
 Jewell
 Jewers
@@ -42999,7 +42992,6 @@ Krumschmidt
 Krumsee
 Krup
 Krupala
-Krupala,
 Krupnick
 Krupp
 Krupper
@@ -44350,7 +44342,6 @@ Laroussi
 Larquia
 Larra
 Larraar
-Larrab1de
 Larrabarri
 Larrabaster
 Larrabasterra
@@ -45196,7 +45187,6 @@ Leiva
 Leivas
 Leiviman
 Leiza
-Leiza,
 Leizabarrena
 Leizabe
 Leizaeta
@@ -45571,7 +45561,8 @@ Levichev
 Levigne
 Levin
 Levine
-Levinsky/i
+Levinski
+Levinsky
 Levinsohn
 Levinstein
 Levinthal
@@ -45579,7 +45570,7 @@ Levish
 Levit
 Levita
 Levitan
-Levitan/sky or ski
+Levitanski
 Levitansky
 Levitch
 Levite
@@ -46125,7 +46116,7 @@ Lindholz
 Lindhorst
 Lindhuber
 Lindim
-Lindinho,
+Lindinho
 Lindino
 Lindkamp
 Lindl
@@ -47268,7 +47259,7 @@ Lozovoy
 Lozovsky
 Lozoya
 Lozza
-Lu:
+Lu
 Luaces
 Luana
 Luariz
@@ -47873,7 +47864,7 @@ Lyrschikov
 Lysagora
 Lysak
 Lysakov
-Lysansky,
+Lysansky
 Lysenko
 Lysenkov
 Lysenny
@@ -47892,7 +47883,7 @@ Lysyansky
 Lysyh
 Lysykh
 Lysyuk
-Lytkin,
+Lytkin
 Lyubenov
 Lyubenova
 Lyubomirov
@@ -50228,7 +50219,7 @@ Mautner
 Mavalvala
 Mawson
 Max
-Maxa/B
+Maxa
 Maxim
 Maximiano
 Maximina
@@ -63436,7 +63427,6 @@ Rafa
 Rafael
 Rafael De Cruz
 Rafai
-Rafaj1
 Rafales
 Rafart
 Rafe
@@ -63788,7 +63778,6 @@ Ramoneda
 Ramonell
 Ramonet
 Ramos
-Ramos"
 Ramospe
 Rampal
 Rampazzo
@@ -78552,7 +78541,6 @@ Urbanc
 Urbanczyk
 Urbaneja
 Urbanek
-Urbanek1
 Urbanelli
 Urbaneta
 Urbani
@@ -83091,7 +83079,6 @@ Whitham
 Whiting
 Whitley
 Whitlock
-Whitmire1
 Whitmore
 Whittaker
 Whittingham
