@@ -69,7 +69,7 @@ First names:
     - License: CC BY-SA 3.0
     - License URL: https://creativecommons.org/licenses/by-sa/3.0/
   - https://en.m.wikipedia.org/w/index.php?title=Category:Feminine_given_names
-    - Title: Unisex given names
+    - Title: Feminine given names
     - Author: Wikipedia and its contributors
     - License: CC BY-SA 3.0
     - License URL: https://creativecommons.org/licenses/by-sa/3.0/
