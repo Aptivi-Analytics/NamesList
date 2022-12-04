@@ -58,6 +58,21 @@ First names:
     - Title: Girl names that start with A-Z
     - Author: Love Love Love Blog
     - License: Unknown
+  - https://en.m.wikipedia.org/wiki/Category:Unisex_given_names
+    - Title: Unisex given names
+    - Author: Wikipedia and its contributors
+    - License: CC BY-SA 3.0
+    - License URL: https://creativecommons.org/licenses/by-sa/3.0/
+  - https://en.m.wikipedia.org/w/index.php?title=Category:Masculine_given_names
+    - Title: Masculine given names
+    - Author: Wikipedia and its contributors
+    - License: CC BY-SA 3.0
+    - License URL: https://creativecommons.org/licenses/by-sa/3.0/
+  - https://en.m.wikipedia.org/w/index.php?title=Category:Feminine_given_names
+    - Title: Unisex given names
+    - Author: Wikipedia and its contributors
+    - License: CC BY-SA 3.0
+    - License URL: https://creativecommons.org/licenses/by-sa/3.0/
 
 Surnames:
   - https://github.com/merishnaSuwal/indian_surnames_data
