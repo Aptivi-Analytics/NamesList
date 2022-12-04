@@ -1,6 +1,6 @@
 ## NamesList
 
-This names list constitutes over 70,000+ names and 100,000+ surnames. It is primarily used for [Namer](https://github.com/Aptivi/Namer), which is the name generation library for .MET projects, but you can make your own name generator using this list. It includes the variety of names from different origins.
+This names list constitutes over 70,000+ names and 100,000+ surnames. It is primarily used for [Namer](https://github.com/Aptivi/Namer), which is the name generation library for .NET projects, but you can make your own name generator using this list. It includes the variety of names from different origins.
 
 To see the demo of how it is used, visit [this page](https://aptivi.github.io/apps/online/namegen.html) and click on the generate button. [Kernel Simulator](https://github.com/Aptivi/Kernel-Simulator) also contains the name generation feature, though you can select how many names, what do you start with (for example, names that start with `Th` such as `Thomas` and `Thalia`), and how do you end with (for example, names that end with `ah` such as `Sarah` and `Abdullah`).
 
