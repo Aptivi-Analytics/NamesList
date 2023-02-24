@@ -2,7 +2,7 @@
 
 This names list constitutes over 70,000+ names and 100,000+ surnames. It is primarily used for [Namer](https://github.com/Aptivi/Namer), which is the name generation library for .NET projects, but you can make your own name generator using this list. It includes the variety of names from different origins.
 
-To see the demo of how it is used, visit [this page](https://aptivi.github.io/apps/online/namegen.html) and click on the generate button. [Kernel Simulator](https://github.com/Aptivi/Kernel-Simulator) also contains the name generation feature, though you can select how many names, what do you start with (for example, names that start with `Th` such as `Thomas` and `Thalia`), and how do you end with (for example, names that end with `ah` such as `Sarah` and `Abdullah`).
+To see the demo of how it is used, visit [this page](https://aptivi.github.io/apps/online/namegen.html) and click on the generate button. [Nitrocid KS](https://github.com/Aptivi/NitrocidKS) also contains the name generation feature, though you can select how many names, what do you start with (for example, names that start with `Th` such as `Thomas` and `Thalia`), and how do you end with (for example, names that end with `ah` such as `Sarah` and `Abdullah`).
 
 ### An example generated from the demo
 ```
@@ -73,6 +73,14 @@ First names:
     - Author: Wikipedia and its contributors
     - License: CC BY-SA 3.0
     - License URL: https://creativecommons.org/licenses/by-sa/3.0/
+  - https://github.com/smashew/NameDatabases/blob/325dd057d6bca5e32fc2cca5ceaaf1dddb046a49/NamesDatabases/first%20names/it.txt
+    - Title: Italian first names (boys & girls) [(GitHub PR #1 from smashew/NameDatabases)](https://github.com/smashew/NameDatabases/pull/1)
+    - Author: [Dan Fossi (@danfossi)](https://github.com/danfossi)
+    - License: No license
+  - https://github.com/smashew/NameDatabases/blob/60eaf6c89f1c48345cad23a859faa346f2187327/NamesDatabases/first%20names/nl.txt
+    - Title: Dutch first names (boys & girls) [(GitHub PR #2 from smashew/NameDatabases)](https://github.com/smashew/NameDatabases/pull/2)
+    - Author: [Marcel Roesink (@mgroesink)](https://github.com/mgroesink)
+    - License: No license
 
 Surnames:
   - https://github.com/merishnaSuwal/indian_surnames_data
