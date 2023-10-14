@@ -2,7 +2,9 @@
 
 This names list constitutes over 70,000+ names and 100,000+ surnames. It is primarily used for [Namer](https://github.com/Aptivi/Namer), which is the name generation library for .NET projects, but you can make your own name generator using this list. It includes the variety of names from different origins.
 
-To see the demo of how it is used, visit [this page](https://aptivi.github.io/apps/online/namegen.html) and click on the generate button. [Nitrocid KS](https://github.com/Aptivi/NitrocidKS) also contains the name generation feature, though you can select how many names, what do you start with (for example, names that start with `Th` such as `Thomas` and `Thalia`), and how do you end with (for example, names that end with `ah` such as `Sarah` and `Abdullah`).
+Additionally, the names list are shipped in between the unified format and the gender-separate format (one file for boy names, such as `Emily`, and another one for girl names, such as `Natalie`). Please note that the gender-separate format doesn't contain all the names that are in the FirstNames.txt file under Processed.
+
+To see the demo of how it is used, visit [this page](https://aptivi.github.io/namegen) and click on the generate button. [Nitrocid KS](https://github.com/Aptivi/NitrocidKS) also contains the name generation feature, though you can select how many names, what do you start with (for example, names that start with `Th` such as `Thomas` and `Thalia`), and how do you end with (for example, names that end with `ah` such as `Sarah` and `Abdullah`).
 
 ### An example generated from the demo
 ```
