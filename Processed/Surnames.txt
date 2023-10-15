@@ -1,5 +1,5 @@
-'Abd al-Rahim
-'t Hart
+'Abd Al-Rahim
+'T Hart
 A'Beckett
 A'Court
 Aa
@@ -371,13 +371,13 @@ Abbyasov
 Abbès
 Abcede
 Abd Manaf
-Abd al-Aziz
-Abd al-Halim
-Abd al-Mannan
-Abd al-Nur
-Abd al-Rabb
-Abd al-Rahman
-Abd al-Razzaq
+Abd Al-Aziz
+Abd Al-Halim
+Abd Al-Mannan
+Abd Al-Nur
+Abd Al-Rabb
+Abd Al-Rahman
+Abd Al-Razzaq
 Abdala
 Abdalahad
 Abdalas
@@ -462,8 +462,8 @@ Abdrashitoff
 Abdrashitov
 Abdrazakoff
 Abdrazakov
-Abdu'allah
-Abdu'l-Fadl
+Abdu'Allah
+Abdu'L-Fadl
 Abdul
 Abdul Ganiyu
 Abdul Hakim
@@ -1102,8 +1102,8 @@ Abu
 Abu Abdullah
 Abu Sidu
 Abu Talib
-Abu al-Fazl
-Abu'l-Fadl-i-Gulpaygani
+Abu Al-Fazl
+Abu'L-Fadl-I-Gulpaygani
 Abu-Lughod
 Abu-Shamala
 AbuKhalil
@@ -3097,7 +3097,7 @@ Ahwoi
 Ahye
 Ahıskalı
 Ai
-Ai'i
+Ai'I
 Aiardi
 Aiarza
 Aibar
@@ -3906,7 +3906,7 @@ Al-Houthi
 Al-Husaini
 Al-Ibrahim
 Al-Isfahani
-Al-Ja'fari
+Al-Ja'Fari
 Al-Jabiri
 Al-Jazairia
 Al-Jazari
@@ -3921,7 +3921,7 @@ Al-Khatib
 Al-Khelaifi
 Al-Khuarizmi
 Al-Kindi
-Al-Ma'ali
+Al-Ma'Ali
 Al-Maghrabi
 Al-Mardini
 Al-Marri
@@ -5448,7 +5448,7 @@ Almario
 Almarza
 Almas
 Almau
-Almaury de Maistre
+Almaury De Maistre
 Almazan
 Almazo
 Almblad
@@ -5868,8 +5868,8 @@ Alvero
 Alverson
 Alverà
 Alves
-Alves da Silva
-Alves dos Santos
+Alves Da Silva
+Alves Dos Santos
 Alvestad
 Alvey
 Alvez
@@ -5907,7 +5907,7 @@ Alzamendi
 Alzamora
 Alzas
 Alzate
-Alzate y Ramirez
+Alzate Y Ramirez
 Alzina
 Alzinger
 Alzira
@@ -7140,7 +7140,7 @@ Ansorena
 Ansotegui
 Anspach
 Ansperger
-Ansse de Villoison
+Ansse De Villoison
 Anstadt
 Anstead
 Anstee
@@ -8670,7 +8670,7 @@ Arrayago
 Arrayas
 Arrayza
 Arrazola
-Arrazola de Oñate
+Arrazola De Oñate
 Arraztio
 Arraztoa
 Arrazubi
@@ -9707,7 +9707,7 @@ Auberle
 Auberlen
 Auberson
 Aubert
-Aubert de Gaspé
+Aubert De Gaspé
 Aubertin
 Auberton
 Aubeso
@@ -9762,7 +9762,7 @@ Audureau
 Aue
 Auenbrugger
 Auer
-Auer von Welsbach
+Auer Von Welsbach
 Auerbach
 Auerbah
 Auerbakh
@@ -9771,7 +9771,7 @@ Auermann
 Auernhammer
 Auernheimer
 Auerswald
-Auf der Maur
+Auf Der Maur
 Aufdem
 Aufdemkamp
 Aufdemkampe
@@ -9989,7 +9989,7 @@ Autrum
 Autry
 Autti
 Autto
-Auva'a
+Auva'A
 Auvinen
 Auvray
 Aux-Cousteaux
@@ -10007,7 +10007,7 @@ Avagimov
 Avagnano
 Avagyan
 Avak'Yan
-Avak'yan
+Avak'Yan
 Avakian
 Avakoff
 Avakov
@@ -11315,7 +11315,7 @@ Badosa
 Badostain
 Badov
 Badr
-Badr al-Din
+Badr Al-Din
 Badran
 Badrashi
 Badri
@@ -12870,7 +12870,7 @@ Barakova
 Barakovsky
 Baraks
 Barakzai
-Barakzai dynasty
+Barakzai Dynasty
 Baral
 Baraldes
 Baraldi
@@ -15839,7 +15839,7 @@ Ben-Tzur
 Ben-Zeev
 Ben-Zion
 Ben-Zvi
-Ben-hadad
+Ben-Hadad
 Benabarre
 Benabbou
 Benabdallah
@@ -16758,7 +16758,7 @@ Bernaola
 Bernaoui
 Bernar
 Bernard
-Bernard de Marigny
+Bernard De Marigny
 Bernard-Reymond
 Bernardakis
 Bernardazzi
@@ -17582,7 +17582,7 @@ Bhathal
 Bhathheja
 Bhati
 Bhatia
-Bhatia caste
+Bhatia Caste
 Bhatkar
 Bhatnagar
 Bhatt
@@ -17890,7 +17890,7 @@ Bierbaum
 Bierbrauer
 Bierce
 Bierekoven
-Bierens de Haan
+Bierens De Haan
 Bierfreund
 Biergans
 Bierhoff
@@ -20480,7 +20480,7 @@ Boreanaz
 Borechko
 Borecki
 Boreel
-Boreel baronets
+Boreel Baronets
 Borega
 Borel
 Borelli
@@ -21311,7 +21311,7 @@ Bouteflika
 Bouteiller
 Boutell
 Boutet
-Boutet de Monvel
+Boutet De Monvel
 Boutherin
 Bouthillier
 Bouthoorn
@@ -22843,7 +22843,7 @@ Bronnikov
 Bronnmann
 Bronowski
 Brons
-Bronsart von Schellendorff
+Bronsart Von Schellendorff
 Bronsema
 Bronski
 Bronson
@@ -23620,7 +23620,7 @@ Budden
 Buddenbohm
 Buddharaju
 Buddhika
-Buddhist surname
+Buddhist Surname
 Budding
 Buddle
 Budeanu
@@ -23710,7 +23710,7 @@ Buenechea
 Buenestado
 Buenfil
 Bueno
-Bueno de Mesquita
+Bueno De Mesquita
 Buenoano
 Buenosvinos
 Buenvaron
@@ -24752,7 +24752,7 @@ Buğra
 Bušić
 Buș
 Bwanamdogo
-By'not'e
+By'Not'E
 Byakov
 Byam
 Byars
@@ -27105,7 +27105,7 @@ Cartman
 Cartmell
 Cartmill
 Carton
-Carton de Wiart
+Carton De Wiart
 Cartridge
 Cartro
 Cartter
@@ -28616,8 +28616,8 @@ Chamudes
 Chamushev
 Chamussy
 Chan
-Chan-o-cha
-Chan-ocha
+Chan-O-Cha
+Chan-Ocha
 Chana
 Chanana
 Chanar
@@ -31378,7 +31378,7 @@ Colliga
 Colligan
 Collignon
 Collin
-Collin de Plancy
+Collin De Plancy
 Collindridge
 Collinelli
 Collinet
@@ -32239,7 +32239,7 @@ Cornide
 Corniel
 Corning
 Cornish
-Cornish surnames
+Cornish Surnames
 Cornock
 Cornpracht
 Cornstein
@@ -34085,7 +34085,7 @@ Călinescu
 Călugăreanu
 Căpățână
 D
-D arcy
+D Arcy
 D'Abo
 D'Aboville
 D'Abruzzo
@@ -34153,9 +34153,9 @@ D'Sa
 D'Silva
 D'Urfey
 D'Ussel
-D'arcy
-D'eca
-D'Étampes de Valençay
+D'Arcy
+D'Eca
+D'Étampes De Valençay
 Da Cal
 Da Conceicao
 Da Conceiçao
@@ -34179,7 +34179,7 @@ Da Silveira
 Da Veiga
 Da Vila
 Da Vinci
-Da vinci
+Da Vinci
 DaPron
 Daaboul
 Daak
@@ -34525,7 +34525,7 @@ Dallimore
 Dallin
 Dallinga
 Dallinger
-Dallinger von Dalling
+Dallinger Von Dalling
 Dallku
 Dallman
 Dallmann
@@ -35485,7 +35485,7 @@ De Benito
 De Berardinis
 De Bernardi
 De Bernardo
-De Bertier de Sauvigny
+De Bertier De Sauvigny
 De Best
 De Bever
 De Bhál
@@ -35504,7 +35504,7 @@ De Bono
 De Bonstetten
 De Bont
 De Boor
-De Borchgrave d'Altena
+De Borchgrave D'Altena
 De Bort
 De Bourdeille
 De Brancas
@@ -35633,7 +35633,7 @@ De Francisco
 De Franquetot
 De Fratus
 De Freitas
-De Freitas do Amaral
+De Freitas Do Amaral
 De Frias
 De Frutos
 De Fuente
@@ -36073,7 +36073,7 @@ De Vlaeminck
 De Vocht
 De Voie
 De Vos
-De Vos van Steenwijk
+De Vos Van Steenwijk
 De Vree
 De Vreeze
 De Vries
@@ -36096,30 +36096,30 @@ De Zeeuw
 De Zela
 De Zoete
 De Zwart
-De ath
-De la Bédoyère
-De la Cierva
-De la Cour
-De la Court
-De la Croix
-De la Cruz
-De la Fosse
-De la Fuente
-De la Hay
-De la Haye
-De la Hoz
-De la Mora
-De la O
-De la Peña
-De la Reguera
-De la Rive
-De la Roca
-De la Rose
-De la Rue
-De la Rúa
-De la Serna
-De la Vallée-Poussin
-De los Reyes
+De Ath
+De La Bédoyère
+De La Cierva
+De La Cour
+De La Court
+De La Croix
+De La Cruz
+De La Fosse
+De La Fuente
+De La Hay
+De La Haye
+De La Hoz
+De La Mora
+De La O
+De La Peña
+De La Reguera
+De La Rive
+De La Roca
+De La Rose
+De La Rue
+De La Rúa
+De La Serna
+De La Vallée-Poussin
+De Los Reyes
 De'Ath
 DeBaecke
 DeBardeleben
@@ -40027,7 +40027,7 @@ Drosler
 Drossel
 Drossler
 Drost
-Droste zu Vischering
+Droste Zu Vischering
 Drosu
 Drotsky
 Drott
@@ -40119,8 +40119,8 @@ Du Pre
 Du Sautoy
 Du Toit
 Du Val
-Du fay
-Du fayt
+Du Fay
+Du Fayt
 DuPlooy
 Dua
 Duah
@@ -44844,7 +44844,7 @@ Etkind
 Etli
 Etna
 Eto
-Eto'o
+Eto'O
 Etoile
 Etok
 Eton
@@ -45214,7 +45214,7 @@ Ezzine
 Eðvaldsson
 Eötvös
 Eșanu
-Fa'afili
+Fa'Afili
 Faaber
 Faafoi
 Faal
@@ -45235,7 +45235,7 @@ Fabeiro
 Fabelinsky
 Fabelo
 Faber
-Faber-de Heer
+Faber-De Heer
 Fabero
 Fabi
 Fabia
@@ -45467,7 +45467,7 @@ Fain
 Faina
 Fainaru
 Faine
-Fainga'a
+Fainga'A
 Faioli
 Fair
 Fairbairn
@@ -46643,7 +46643,7 @@ Fenster
 Fenstermaker
 Fentanes
 Fente
-Fentener van Vlissingen
+Fentener Van Vlissingen
 Fenter
 Fenton
 Fenu
@@ -46794,7 +46794,7 @@ Fernandez Tostado
 Fernandez Trujillo
 Fernandez Vega
 Fernandez Velilla
-Fernandez de Oviedo
+Fernandez De Oviedo
 Fernandinho
 Fernandino
 Fernando
@@ -46816,7 +46816,7 @@ Fernschild
 Fernström
 Fernyhough
 Fernández
-Fernández de Oviedo
+Fernández De Oviedo
 Feron
 Ferra
 Ferrabosco
@@ -47590,7 +47590,7 @@ Fischedick
 Fischel
 Fischelmanns
 Fischer
-Fischer von Röslerstamm
+Fischer Von Röslerstamm
 Fischerbauer
 Fischermanns
 Fischermeier
@@ -53996,7 +53996,7 @@ Gisasola
 Gisbert
 Gisborne
 Giscard
-Giscard d'Estaing
+Giscard D'Estaing
 Gisch
 Gischard
 Giseke
@@ -54284,7 +54284,7 @@ Gleghorne
 Gleiberman
 Gleich
 Gleicher
-Gleichmann von Oven
+Gleichmann Von Oven
 Gleichsner
 Gleichweit
 Gleick
@@ -55143,7 +55143,7 @@ Gomersall
 Gomert
 Gomery
 Gomes
-Gomes da Rocha
+Gomes Da Rocha
 Gomez
 Gomez Acebo
 Gomez Calcerrada
@@ -58301,7 +58301,7 @@ Guitto
 Guitton
 Guité
 Guiu
-Guivarc'h
+Guivarc'H
 Guivernau
 Guix
 Guixa
@@ -62045,7 +62045,7 @@ Heep
 Heeps
 Heerdejurgen
 Heereman
-Heereman von Zuydwyck
+Heereman Von Zuydwyck
 Heeremans
 Heeren
 Heeresma
@@ -63677,7 +63677,7 @@ Heusener
 Heuser
 Heusgen
 Heusing
-Heusinger von Waldegg
+Heusinger Von Waldegg
 Heusler
 Heusmann
 Heusner
@@ -65355,7 +65355,7 @@ Holmen
 Holmer
 Holmertz
 Holmes
-Holmes à Court
+Holmes À Court
 Holmesland
 Holmgren
 Holminov
@@ -66240,9 +66240,9 @@ Hourihan
 Hoursouripe
 Housden
 House
-House of Antelminelli
-House of Li
-House of Zhao
+House Of Antelminelli
+House Of Li
+House Of Zhao
 Housego
 Householder
 Houseman
@@ -66798,7 +66798,7 @@ Hullbusch
 Hullebrand
 Hullecremer
 Hullekremer
-Hullen der
+Hullen Der
 Hullencremer
 Hullenkraemer
 Hullenkremer
@@ -67002,7 +67002,7 @@ Hurdey
 Hurdle
 Hure
 Hureau
-Hureau de Sénarmont
+Hureau De Sénarmont
 Hurel
 Hurenko
 Huret
@@ -67035,7 +67035,7 @@ Hursti
 Hurt
 Hurtado
 Hurtado De Mendoza
-Hurtado de Mendoza
+Hurtado De Mendoza
 Hurtaj
 Hurtaran
 Hurtault
@@ -67315,7 +67315,7 @@ Hyttinen
 Hytönen
 Hyun
 Hyun 
-Hyun-min
+Hyun-Min
 Hyvernaud
 Hyvärinen
 Hyvönen
@@ -67366,7 +67366,7 @@ Hæstad
 Hætta
 Hébert
 Hébrard
-Hébrard de Villeneuve
+Hébrard De Villeneuve
 Hébras
 Hédon
 Héguy
@@ -67684,7 +67684,7 @@ Ibn Mubarak
 Ibn Sahl
 Ibn Shaddad
 Ibn Yahya
-Ibn az-Zubayr
+Ibn Az-Zubayr
 Ibomcha
 Ibor
 Iborra
@@ -68395,7 +68395,7 @@ Imus
 Imwalle
 Imwolde
 In
-In 't Veld
+In 'T Veld
 Ina
 Inaba
 Inabinet
@@ -70716,7 +70716,7 @@ Jansa
 Jansana
 Jansch
 Janse
-Janse van Rensburg
+Janse Van Rensburg
 Jansen
 Janshin
 Janshole
@@ -72116,7 +72116,7 @@ Jones-Drew
 Jonet
 Jonevret
 Jong
-Jong-a-Pin
+Jong-A-Pin
 Jongbloed
 Jonge
 Jongejans
@@ -75818,7 +75818,7 @@ Khamis
 Khamkhoyev
 Khamlichi
 Khan
-Khan-e-Qalat
+Khan-E-Qalat
 Khanagyan
 Khanal
 Khanam
@@ -79495,7 +79495,7 @@ Krarup
 Krasikov
 Krasilnikov
 Krasilnikova
-Krasil’nikov
+Krasil’Nikov
 Krasimirov
 Krasimirova
 Krasin
@@ -83798,7 +83798,7 @@ Le Moal
 Le Moignan
 Le Moult
 Le Neve
-Le Peletier de Saint Fargeau
+Le Peletier De Saint Fargeau
 Le Pelley
 Le Pen
 Le Pennec
@@ -83810,10 +83810,10 @@ Le Tellier
 Le Tissier
 Le Tocq
 Le Tonnelier
-Le Tonnelier de Breteuil
+Le Tonnelier De Breteuil
 Le Vern
 Le Verrier
-Le tissier
+Le Tissier
 LeBeau
 LeBourgeois
 LeClerq
@@ -84022,7 +84022,7 @@ Lecompte
 Lecomte
 Leconte
 Lecoq
-Lecoq de Boisbaudran
+Lecoq De Boisbaudran
 Lecoque
 Lecosaiz
 Lecouls
@@ -84154,7 +84154,7 @@ Lefter
 Lefton
 Leftwich
 Lefèvre
-Lefèvre d'Etaples
+Lefèvre D'Etaples
 Lefébure
 Lega
 Legabide
@@ -87773,7 +87773,7 @@ Loysel
 Loyzaga
 Loz
 Loza
-Lozac'h
+Lozac'H
 Lozada
 Lozaia
 Lozano
@@ -88928,8 +88928,8 @@ M'Bareck
 M'Bengue
 M'Changama
 M'Hamed
-M'baye
-M'hidi
+M'Baye
+M'Hidi
 Ma
 Maack
 Maadani
@@ -89031,10 +89031,10 @@ Mac Sitric
 Mac Siúrtáin
 Mac Suibhne
 Mac Torcaill
-Mac a' Ghobhainn
-Mac an Bhaird
-Mac an Iomaire
-Mac ind Óclaich
+Mac A' Ghobhainn
+Mac An Bhaird
+Mac An Iomaire
+Mac Ind Óclaich
 MacAndrew
 MacArthur
 MacAskill
@@ -92051,7 +92051,7 @@ Markthaler
 Marku
 Markuleta
 Markus
-Markus and McFeely
+Markus And McFeely
 Markushev
 Markushevich
 Markushin
@@ -92442,7 +92442,7 @@ Martinez Losa
 Martinez Meco
 Martinez Pardo
 Martinez Raposo
-Martinez de Hoz
+Martinez De Hoz
 Martinez-Castellano
 Marting
 Martingaste
@@ -92539,7 +92539,7 @@ Martzenyuk
 Martzevich
 Martzinkovsky
 Martínez
-Martínez de Hoz
+Martínez De Hoz
 Martínez-Ábrego
 Marucchi
 Marucci
@@ -93105,7 +93105,7 @@ Mathy
 Mathys
 Mati
 Matia
-Matiang'i
+Matiang'I
 Matias
 Matiashvili
 Matibe
@@ -95400,7 +95400,7 @@ Medňanský
 Mee
 Meech
 Meechan
-Meeden der
+Meeden Der
 Meegan
 Meegen
 Meehl
@@ -95446,7 +95446,7 @@ Meeves
 Meevissen
 Meewes
 Meewis
-Meeûs d'Argenteuil
+Meeûs D'Argenteuil
 Meffert
 Meffle
 Meftah
@@ -95457,7 +95457,7 @@ Meganck
 Megargee
 Megarry
 Megaw
-Megerle von Mühlfeld
+Megerle Von Mühlfeld
 Megersa
 Meggendorfer
 Megginson
@@ -95935,7 +95935,7 @@ Memme
 Memmelaar
 Memmich
 Memon
-Memon people
+Memon People
 Men
 Mena
 Mena-Basterra
@@ -99424,7 +99424,7 @@ Monterrubio
 Montervino
 Montes
 Montes De Oca
-Montes de Oca
+Montes De Oca
 Montes-Bradley
 Montesa
 Montesano
@@ -100524,7 +100524,7 @@ Muchalon
 Muchamore
 Muchanow
 Muchata
-Mucheleng'anga
+Mucheleng'Anga
 Muchnic
 Muchnik
 Mucientes
@@ -100610,7 +100610,7 @@ Muggenthaler
 Muggeridge
 Muggleton
 Mughal
-Mughal people
+Mughal People
 Mugheri
 Mughira
 Mugica
@@ -102631,7 +102631,7 @@ Nasikan
 Nasikovsky
 Nasini
 Nasir
-Nasir al-Din
+Nasir Al-Din
 Nasiri
 Naskneck
 Naslednikov
@@ -103594,7 +103594,7 @@ Nevelskoi
 Nevelsky
 Nevelson
 Neven
-Neven du Mont
+Neven Du Mont
 Neverkovets
 Neverkovich
 Neverov
@@ -104565,7 +104565,7 @@ Noberto
 Nobia
 Nobile
 Nobili
-Nobiliary particle
+Nobiliary Particle
 Noble
 Noblejas
 Noblet
@@ -105168,7 +105168,7 @@ Ntshebe
 Ntuli
 Ntumba
 Ntutumu
-Nu'uausala
+Nu'Uausala
 Nualart
 Nuallan
 Nuarbe
@@ -105266,7 +105266,7 @@ Nuovo
 Nupen
 Nupur
 Nur 'Ali
-Nur al-Din
+Nur Al-Din
 Nuraliev
 Nurdin
 Nurdinov
@@ -105423,7 +105423,7 @@ Nynhuysen
 Nyo
 Nyom
 Nyombi
-Nyong'o
+Nyong'O
 Nypan
 Nype
 Nyquist
@@ -105479,44 +105479,44 @@ Němeček
 Nəbiyev
 Nəbiyeva
 O
-O boyle
-O bree
-O brian
-O brien
-O callaghann
-O connell
-O connor
-O dell
-O doherty
-O donnell
-O donoghue
-O dowd
-O driscoll
-O gorman
-O grady
-O hagan
-O halloran
-O hanlon
-O hara
-O hare
-O kane
-O keefe
-O keeffe
-O kelly
-O leary
-O loughlin
-O mahoney
-O mahony
-O malley
-O meara
-O neal
-O neill
-O reilly
-O rourke
-O ryan
-O shea
-O sullivan
-O toole
+O Boyle
+O Bree
+O Brian
+O Brien
+O Callaghann
+O Connell
+O Connor
+O Dell
+O Doherty
+O Donnell
+O Donoghue
+O Dowd
+O Driscoll
+O Gorman
+O Grady
+O Hagan
+O Halloran
+O Hanlon
+O Hara
+O Hare
+O Kane
+O Keefe
+O Keeffe
+O Kelly
+O Leary
+O Loughlin
+O Mahoney
+O Mahony
+O Malley
+O Meara
+O Neal
+O Neill
+O Reilly
+O Rourke
+O Ryan
+O Shea
+O Sullivan
+O Toole
 O'Banion
 O'Bannon
 O'Beirne
@@ -105544,7 +105544,7 @@ O'Dell
 O'Doherty
 O'Donnell
 O'Donoghue
-O'Donoghue of the Glens
+O'Donoghue Of The Glens
 O'Donohue
 O'Donojú
 O'Donovan
@@ -107327,7 +107327,7 @@ Opersten
 Operti
 Opes
 Opeyemi
-Opfer of Blowitz
+Opfer Of Blowitz
 Opfermann
 Opgemoort
 Opgemoorth
@@ -108735,7 +108735,7 @@ Pache
 Pacheca
 Pacheco
 Pacheco Pereira
-Pacheco de Melo
+Pacheco De Melo
 Pachelbel
 Pacher
 Pachernegg
@@ -108827,7 +108827,7 @@ Padmasola
 Padmesh
 Padmore
 Padoa
-Padoa-schioppa
+Padoa-Schioppa
 Padoan
 Padoin
 Padou
@@ -109620,7 +109620,7 @@ Panunzio
 Panusch
 Panuš
 Panwar
-Panwar dynasty
+Panwar Dynasty
 Pany
 Panyala
 Panyin
@@ -110139,7 +110139,7 @@ Parthathy
 Partheimuller
 Parthena
 Parthiban
-Parthon de Von
+Parthon De Von
 Parti
 Partida
 Partido
@@ -110622,7 +110622,7 @@ Pauly
 Paumann
 Paumgartner
 Paumier
-Paumier du Vergier
+Paumier Du Vergier
 Paun
 Pauna
 Pauner
@@ -110864,7 +110864,7 @@ Paździor
 Pažin
 Pažout
 Pchelintsev
-Pe'er
+Pe'Er
 Peabody
 Peace
 Peacey
@@ -111685,7 +111685,7 @@ Perehudoff
 Pereila
 Pereio
 Pereira
-Pereira da Silva
+Pereira Da Silva
 Pereiras
 Pereirinha
 Pereiro
@@ -114651,8 +114651,8 @@ Ponarovsky
 Ponasov
 Ponce
 Ponce De Leon
-Ponce de Leon
-Ponce de León
+Ponce De Leon
+Ponce De León
 Poncela
 Poncelas
 Poncelet
@@ -115756,7 +115756,7 @@ Primeau
 Primitivo
 Primmer
 Primo
-Primo de Rivera
+Primo De Rivera
 Primorac
 Primorosa
 Prims
@@ -116010,7 +116010,7 @@ Prucker
 Pruckner
 Prucnal
 Prud Homme
-Prud'hon
+Prud'Hon
 Prudden
 Prudencio
 Prudent
@@ -121744,7 +121744,7 @@ Rohart
 Rohatgi
 Rohatsevich
 Rohatyn
-Rohault de Fleury
+Rohault De Fleury
 Rohde
 Rohin
 Rohirse
@@ -122516,7 +122516,7 @@ Rossovsky
 Rossum
 Rosswess
 Rost
-Rost van Tonningen
+Rost Van Tonningen
 Rostagno
 Rostami
 Rostampour
@@ -124761,7 +124761,7 @@ Salagame
 Salagean
 Salagre
 Salah
-Salah ad-Din
+Salah Ad-Din
 Salajan
 Salakhov
 Salam
@@ -124883,7 +124883,7 @@ Salim
 Salima
 Salin
 Salinas
-Salinas de Gortari
+Salinas De Gortari
 Salinero
 Salinga
 Salinger
@@ -125259,7 +125259,7 @@ Samz
 San
 San Martin
 San Roman
-San'yūtei
+San'Yūtei
 Sana
 Sanabra
 Sanabre
@@ -126430,7 +126430,7 @@ Sautto
 Sautu
 Sautua
 Sauvage
-Sauvage de Brantes
+Sauvage De Brantes
 Sauvageau
 Sauval
 Sauveplane
@@ -128156,7 +128156,7 @@ Schnockel
 Schnoeckel
 Schnog
 Schnorr
-Schnorr von Carolsfeld
+Schnorr Von Carolsfeld
 Schnuch
 Schnug
 Schnugg
@@ -130393,7 +130393,7 @@ Seva
 Sevareid
 Sevastyanov
 Seve
-Seveali'i
+Seveali'I
 Sevecke
 Sevela
 Severein
@@ -131882,7 +131882,7 @@ Siddaramayya
 Siddhi
 Siddig
 Siddiq
-Siddiqis in the Horn of Africa
+Siddiqis In The Horn Of Africa
 Siddique
 Siddiqui
 Siddon
@@ -132757,7 +132757,7 @@ Siwerin
 Siwiec
 Six
 Sixkiller
-Sixt von Armin
+Sixt Von Armin
 Sixto
 Siyaks
 Siyal
@@ -133426,7 +133426,7 @@ Snelgrove
 Snelker
 Snell
 Snellen
-Snellen van Vollenhoven
+Snellen Van Vollenhoven
 Snellgrove
 Snelling
 Snellman
@@ -133470,7 +133470,7 @@ Snyder
 Snyders
 Snyman
 So
-So'oialo
+So'Oialo
 Soage
 Soalheira
 Soalleiro
@@ -134168,7 +134168,7 @@ Sotloff
 Sotnieks
 Sotnikov
 Soto
-Soto y Gama
+Soto Y Gama
 Sotoca
 Sotodate
 Sotodosos
@@ -136984,7 +136984,7 @@ Stępniak
 Střelba
 Stříbrný
 Su
-Su'a-Filo
+Su'A-Filo
 Suades
 Suagher
 Suaird
@@ -137376,7 +137376,7 @@ Sumstine
 Sumulong
 Sumwalt
 Sun
-Sun-woo
+Sun-Woo
 Sunaga
 Sunahara
 Sunak
@@ -139012,7 +139012,7 @@ Tapan
 Tapani
 Tapanila
 Tapaniya
-Taparelli d'Azeglio
+Taparelli D'Azeglio
 Taparia
 Tapas
 Tapasco
@@ -139198,8 +139198,8 @@ Tarrero
 Tarres
 Tarrias
 Tarrida
-Tarrida del Marmol
-Tarrida del Mármol
+Tarrida Del Marmol
+Tarrida Del Mármol
 Tarridas
 Tarrio
 Tarriño
@@ -139558,8 +139558,8 @@ Tchérina
 Tchórzewski
 Te Vrede
 Te Wiata
-Te'o
-Te'o-Nesheim
+Te'O
+Te'O-Nesheim
 Teachout
 Teaford
 Teagan
@@ -139729,7 +139729,7 @@ Teise
 Teismann
 Teiss
 Teisseire
-Teisserenc de Bort
+Teisserenc De Bort
 Teissier
 Teitel
 Teitelbaum
@@ -140287,7 +140287,7 @@ Terzaghi
 Terzano
 Terzetta
 Terzi
-Terzi di Sant'Agata
+Terzi Di Sant'Agata
 Terzian
 Terzioğlu
 Terzis
@@ -140348,7 +140348,7 @@ Tessmer
 Tesson
 Testa
 Testard
-Testard de Montigny
+Testard De Montigny
 Testardi
 Testas
 Testaverde
@@ -140470,7 +140470,7 @@ Tezza
 Tešić
 Tešović
 Tfarci
-Tha'alibi
+Tha'Alibi
 Thabane
 Thabet
 Thabethe
@@ -141999,7 +141999,7 @@ Tokloth
 Tokmachev
 Tokmagambetov
 Tokmakov
-Toko ekambi
+Toko Ekambi
 Tokodi
 Tokombaev
 Tokovoi
@@ -142299,7 +142299,7 @@ Toneu
 Tonev
 Tong
 Tonga
-Tonga'uiha
+Tonga'Uiha
 Tonge
 Tonges
 Tongia
@@ -144480,7 +144480,7 @@ Turegano
 Turei
 Turell
 Turenne
-Turenne des Pres
+Turenne Des Pres
 Turesson
 Turetskov
 Turetsky
@@ -146347,7 +146347,7 @@ Uthenwoldt
 Uthenwuld
 Uthenwuldt
 Uthman
-Uthman khel
+Uthman Khel
 Uthoff
 Uthup
 Uthwatt
@@ -146494,7 +146494,7 @@ V'Yun
 V'Yunkov
 V'Yunov
 V'Yurkov
-Va'aulu
+Va'Aulu
 Vaadia
 Vaaga
 Vaagen
@@ -147412,9 +147412,9 @@ Vamvakidis
 Vamvakinou
 Vamvakoulas
 Van
-Van 't Hek
-Van 't Hof
-Van 't Schip
+Van 'T Hek
+Van 'T Hof
+Van 'T Schip
 Van Aaken
 Van Aalten
 Van Aanholt
@@ -147602,7 +147602,7 @@ Van Dinteren
 Van Dis
 Van Divier
 Van Dobbenburgh
-Van Dok-van Weele
+Van Dok-Van Weele
 Van Dommele
 Van Dommelen
 Van Dongen
@@ -147937,7 +147937,7 @@ Van Ostern
 Van Ostrand
 Van Oudshoorn
 Van Outen
-Van Outryve d'Ydewalle
+Van Outryve D'Ydewalle
 Van Overbeek
 Van Overmeire
 Van Oystaeyen
@@ -148093,7 +148093,7 @@ Van Vollenhoven
 Van Volxem
 Van Voorn
 Van Voorst
-Van Voorst tot Voorst
+Van Voorst Tot Voorst
 Van Vorst
 Van Vrekhem
 Van Vugt
@@ -148118,11 +148118,11 @@ Van Wirdum
 Van Wisse
 Van Wittel
 Van Wyk
-Van Wyk de Vries
+Van Wyk De Vries
 Van Wyke
 Van Ymeren
 Van Ypersele
-Van Ypersele de Strihou
+Van Ypersele De Strihou
 Van Zaanen
 Van Zandt
 Van Zanten
@@ -148131,237 +148131,237 @@ Van Zetten
 Van Zeyl
 Van Zile
 Van Zundert
-Van Zuylen van Nijevelt
+Van Zuylen Van Nijevelt
 Van Zyl
-Van de Bovenkamp
-Van de Bunt
-Van de Cappelle
-Van de Elzen
-Van de Geijn
-Van de Graaf
-Van de Haar
-Van de Hare
-Van de Kamp
-Van de Korput
-Van de Mieroop
-Van de Poele
-Van de Rijck
-Van de Sande
-Van de Sompel
-Van de Stadt
-Van de Vate
-Van de Veire
-Van de Velde
-Van de Ven
-Van de Vendel
-Van de Venne
-Van de Vijver
-Van de Walle
-Van de Water
-Van de Weerd
-Van de Werf
-Van de Werve
-Van de Wetering
-Van de Weyer
-Van de Wiele
-Van de Winkel
-Van de Woestijne
-Van de Zandt
-Van den Abeele
-Van den Acker
-Van den Akker
-Van den Berg
-Van den Bergh
-Van den Berghen
-Van den Blink
-Van den Boogaard
-Van den Boogert
-Van den Boom
-Van den Bos
-Van den Bosch
-Van den Bossche
-Van den Brande
-Van den Brink
-Van den Broeck
-Van den Broek
-Van den Brom
-Van den Brul
-Van den Burgh
-Van den Burgt
-Van den Buys
-Van den Eeckhout
-Van den Elsen
-Van den Enk
-Van den Eynde
-Van den Goorbergh
-Van den Hecke
-Van den Heever
-Van den Hende
-Van den Herik
-Van den Heuvel
-Van den Hoek
-Van den Hoogenband
-Van den Hove
-Van den Krommenacker
-Van den Oever
-Van den Steen
-Van der Aa
-Van der Aalst
-Van der Auwera
-Van der Beck
-Van der Beek
-Van der Bellen
-Van der Ben
-Van der Bent
-Van der Bergen
-Van der Beugel
-Van der Bijl
-Van der Boom
-Van der Brugghen
-Van der Burg
-Van der Burgh
-Van der Byl
-Van der Cabel
-Van der Cammen
-Van der Corput
-Van der Crabben
-Van der Does
-Van der Donck
-Van der Drift
-Van der Duim
-Van der Dussen
-Van der Eem
-Van der Elsken
-Van der Elst
-Van der Ende
-Van der Flier
-Van der Gaag
-Van der Garde
-Van der Geest
-Van der Giessen
-Van der Goes
-Van der Gouw
-Van der Gulik
-Van der Haar
-Van der Haegen
-Van der Hagen
-Van der Ham
-Van der Hart
-Van der Heck
-Van der Heide
-Van der Heijden
-Van der Helst
-Van der Hoeden
-Van der Hoek
-Van der Hoeven
-Van der Hoop
-Van der Hoorn
-Van der Horst
-Van der Hove
-Van der Hulst
-Van der Jagt
-Van der Kaay
-Van der Kellen
-Van der Kemp
-Van der Keuken
-Van der Kiste
-Van der Knaap
-Van der Kolk
-Van der Laan
-Van der Lans
-Van der Leck
-Van der Lee
-Van der Linde
-Van der Linden
-Van der Lisse
-Van der Lith
-Van der Louw
-Van der Lubbe
-Van der Luijt
-Van der Maarel
-Van der Maas
-Van der Maaten
-Van der Made
-Van der Mark
-Van der Meer
-Van der Meijden
-Van der Merwe
-Van der Meulen
-Van der Meyde
-Van der Moere
-Van der Molen
-Van der Neer
-Van der Noot
-Van der Perren
-Van der Plaats
-Van der Plaetsen
-Van der Plank
-Van der Plas
-Van der Ploeg
-Van der Poel
-Van der Pol
-Van der Pols
-Van der Post
-Van der Putten
-Van der Rassel
-Van der Rest
-Van der Roost
-Van der Ryn
-Van der Sande
-Van der Sandt
-Van der Sar
-Van der Sluijs
-Van der Spek
-Van der Staak
-Van der Stappen
-Van der Steen
-Van der Stel
-Van der Sterre
-Van der Stoel
-Van der Stok
-Van der Stokker
-Van der Straeten
-Van der Struijk
-Van der Tuuk
-Van der Vaart
-Van der Valk
-Van der Vat
-Van der Veen
-Van der Veer
-Van der Vegt
-Van der Velde
-Van der Velden
-Van der Vinne
-Van der Vlag
-Van der Vleuten
-Van der Vlies
-Van der Vlugt
-Van der Voet
-Van der Voort
-Van der Vorst
-Van der Vyver
-Van der Waerden
-Van der Wal
-Van der Walt
-Van der Want
-Van der Water
-Van der Wath
-Van der Watt
-Van der Weele
-Van der Weijden
-Van der Werff
-Van der Westhuizen
-Van der Weyden
-Van der Wiel
-Van der Woude
-Van der Zande
-Van der Zant
-Van der Zee
-Van der Zouwen
-Van der Zyl
-Van der lijn
-Van dermeersch
-Van nistelrooy
+Van De Bovenkamp
+Van De Bunt
+Van De Cappelle
+Van De Elzen
+Van De Geijn
+Van De Graaf
+Van De Haar
+Van De Hare
+Van De Kamp
+Van De Korput
+Van De Mieroop
+Van De Poele
+Van De Rijck
+Van De Sande
+Van De Sompel
+Van De Stadt
+Van De Vate
+Van De Veire
+Van De Velde
+Van De Ven
+Van De Vendel
+Van De Venne
+Van De Vijver
+Van De Walle
+Van De Water
+Van De Weerd
+Van De Werf
+Van De Werve
+Van De Wetering
+Van De Weyer
+Van De Wiele
+Van De Winkel
+Van De Woestijne
+Van De Zandt
+Van Den Abeele
+Van Den Acker
+Van Den Akker
+Van Den Berg
+Van Den Bergh
+Van Den Berghen
+Van Den Blink
+Van Den Boogaard
+Van Den Boogert
+Van Den Boom
+Van Den Bos
+Van Den Bosch
+Van Den Bossche
+Van Den Brande
+Van Den Brink
+Van Den Broeck
+Van Den Broek
+Van Den Brom
+Van Den Brul
+Van Den Burgh
+Van Den Burgt
+Van Den Buys
+Van Den Eeckhout
+Van Den Elsen
+Van Den Enk
+Van Den Eynde
+Van Den Goorbergh
+Van Den Hecke
+Van Den Heever
+Van Den Hende
+Van Den Herik
+Van Den Heuvel
+Van Den Hoek
+Van Den Hoogenband
+Van Den Hove
+Van Den Krommenacker
+Van Den Oever
+Van Den Steen
+Van Der Aa
+Van Der Aalst
+Van Der Auwera
+Van Der Beck
+Van Der Beek
+Van Der Bellen
+Van Der Ben
+Van Der Bent
+Van Der Bergen
+Van Der Beugel
+Van Der Bijl
+Van Der Boom
+Van Der Brugghen
+Van Der Burg
+Van Der Burgh
+Van Der Byl
+Van Der Cabel
+Van Der Cammen
+Van Der Corput
+Van Der Crabben
+Van Der Does
+Van Der Donck
+Van Der Drift
+Van Der Duim
+Van Der Dussen
+Van Der Eem
+Van Der Elsken
+Van Der Elst
+Van Der Ende
+Van Der Flier
+Van Der Gaag
+Van Der Garde
+Van Der Geest
+Van Der Giessen
+Van Der Goes
+Van Der Gouw
+Van Der Gulik
+Van Der Haar
+Van Der Haegen
+Van Der Hagen
+Van Der Ham
+Van Der Hart
+Van Der Heck
+Van Der Heide
+Van Der Heijden
+Van Der Helst
+Van Der Hoeden
+Van Der Hoek
+Van Der Hoeven
+Van Der Hoop
+Van Der Hoorn
+Van Der Horst
+Van Der Hove
+Van Der Hulst
+Van Der Jagt
+Van Der Kaay
+Van Der Kellen
+Van Der Kemp
+Van Der Keuken
+Van Der Kiste
+Van Der Knaap
+Van Der Kolk
+Van Der Laan
+Van Der Lans
+Van Der Leck
+Van Der Lee
+Van Der Linde
+Van Der Linden
+Van Der Lisse
+Van Der Lith
+Van Der Louw
+Van Der Lubbe
+Van Der Luijt
+Van Der Maarel
+Van Der Maas
+Van Der Maaten
+Van Der Made
+Van Der Mark
+Van Der Meer
+Van Der Meijden
+Van Der Merwe
+Van Der Meulen
+Van Der Meyde
+Van Der Moere
+Van Der Molen
+Van Der Neer
+Van Der Noot
+Van Der Perren
+Van Der Plaats
+Van Der Plaetsen
+Van Der Plank
+Van Der Plas
+Van Der Ploeg
+Van Der Poel
+Van Der Pol
+Van Der Pols
+Van Der Post
+Van Der Putten
+Van Der Rassel
+Van Der Rest
+Van Der Roost
+Van Der Ryn
+Van Der Sande
+Van Der Sandt
+Van Der Sar
+Van Der Sluijs
+Van Der Spek
+Van Der Staak
+Van Der Stappen
+Van Der Steen
+Van Der Stel
+Van Der Sterre
+Van Der Stoel
+Van Der Stok
+Van Der Stokker
+Van Der Straeten
+Van Der Struijk
+Van Der Tuuk
+Van Der Vaart
+Van Der Valk
+Van Der Vat
+Van Der Veen
+Van Der Veer
+Van Der Vegt
+Van Der Velde
+Van Der Velden
+Van Der Vinne
+Van Der Vlag
+Van Der Vleuten
+Van Der Vlies
+Van Der Vlugt
+Van Der Voet
+Van Der Voort
+Van Der Vorst
+Van Der Vyver
+Van Der Waerden
+Van Der Wal
+Van Der Walt
+Van Der Want
+Van Der Water
+Van Der Wath
+Van Der Watt
+Van Der Weele
+Van Der Weijden
+Van Der Werff
+Van Der Westhuizen
+Van Der Weyden
+Van Der Wiel
+Van Der Woude
+Van Der Zande
+Van Der Zant
+Van Der Zee
+Van Der Zouwen
+Van Der Zyl
+Van Der Lijn
+Van Dermeersch
+Van Nistelrooy
 Van-Puteren
 VanAmerongen
 VanArtsdalen
@@ -149615,7 +149615,7 @@ Velden
 Velder
 Veldheer
 Veldhuis
-Veldhuyzen van Zanten
+Veldhuyzen Van Zanten
 Veldkamp
 Veldman
 Veldmate
@@ -150102,7 +150102,7 @@ Vercoulen
 Vercoutre
 Vercruysse
 Verd
-Verd'hurt
+Verd'Hurt
 Verdade
 Verdaguer
 Verdasca
@@ -150164,7 +150164,7 @@ Verdusco
 Verdussen
 Verduyn
 Verduzco
-Verdy du Vernois
+Verdy Du Vernois
 Verdé-Delisle
 Verdú
 Verea
@@ -151458,7 +151458,7 @@ Vilkul
 Villa
 Villa Lobos
 Villa-Lobos
-Villa-lobos
+Villa-Lobos
 Villaamil
 Villaba
 Villabaso
@@ -152723,7 +152723,7 @@ Vokrri
 Vokshi
 Vokurková
 Vokuyev
-Vol'pert
+Vol'Pert
 Volaire
 Volak
 Volandri
@@ -152917,7 +152917,7 @@ Volny
 Volobuyev
 Voloch
 Volochkova
-Volod'kov
+Volod'Kov
 Volodenkov
 Volodin
 Volodos
@@ -153125,16 +153125,16 @@ Von Zedtwitz
 Von Zerneck
 Von Ziegesar
 Von Zielbauer
-Von dem Knesebeck
-Von der Ahe
-Von der Decken
-Von der Esch
-Von der Goltz
-Von der Heide
-Von der Heyden
-Von der Heydt
-Von der Mühll
-Von der Porten
+Von Dem Knesebeck
+Von Der Ahe
+Von Der Decken
+Von Der Esch
+Von Der Goltz
+Von Der Heide
+Von Der Heyden
+Von Der Heydt
+Von Der Mühll
+Von Der Porten
 VonAllen
 Vona
 Vonarburg
@@ -159791,7 +159791,7 @@ Yıldızoğlu
 Yılmaz
 Yūki
 Yǐn
-Z'fansky
+Z'Fansky
 Zaaboub
 Zaadi
 Zaanen
@@ -160658,7 +160658,7 @@ Zdravković
 Zdrojewski
 Zdrzalek
 Zdráhal
-Ze'evi
+Ze'Evi
 Zea
 Zeaiter
 Zeal
@@ -161503,7 +161503,7 @@ Zhvania
 Zhvirblis
 Zhvykin
 Zia
-Zia-ul-Haq
+Zia-Ul-Haq
 Ziad
 Ziadi
 Ziaja
@@ -162976,16 +162976,16 @@ Złotowski
 Ó Tomhrair
 Ó Tormaigh
 Ó Troighthigh
-Ó an Cháintighe
-Ó hAichir
-Ó hAodha
-Ó hAonghusa
-Ó hArailt
-Ó hEochaidh
-Ó hEodhasa
-Ó hUiginn
-Ó hÁdhmaill
-Ó hÍceadha
+Ó An Cháintighe
+Ó HAichir
+Ó HAodha
+Ó HAonghusa
+Ó HArailt
+Ó HEochaidh
+Ó HEodhasa
+Ó HUiginn
+Ó HÁdhmaill
+Ó HÍceadha
 Ólafsdóttir
 Ólafsson
 Ómarsdóttir
