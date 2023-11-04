@@ -83,6 +83,14 @@ First names:
     - Title: Dutch first names (boys & girls) [(GitHub PR #2 from smashew/NameDatabases)](https://github.com/smashew/NameDatabases/pull/2)
     - Author: [Marcel Roesink (@mgroesink)](https://github.com/mgroesink)
     - License: No license
+  - https://github.com/FinNLP/humannames
+    - Title: A list, huge one (~200K) of human male/female first/last names.
+    - Author: [Alex Corvi @FinNLP](https://github.com/FinNLP)
+    - License: MIT License
+  - https://github.com/devthejo/first-names-list
+    - Title: first-names-list
+    - Author: [@devthejo](https://github.com/devthejo)
+    - License: No license
 
 Surnames:
   - https://github.com/merishnaSuwal/indian_surnames_data
