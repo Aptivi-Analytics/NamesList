@@ -1,12 +1,15 @@
 ## NamesList
 
-This names list constitutes over 70,000+ names and 100,000+ surnames. It is primarily used for [Namer](https://github.com/Aptivi/Namer), which is the name generation library for .NET projects, but you can make your own name generator using this list. It includes the variety of names from different origins.
+This names list constitutes over 700,000+ names and 900,000+ surnames. It is primarily used for [Textify](https://github.com/Aptivi/Textify), which is the name generation library for .NET projects, but you can make your own name generator using this list. It includes the variety of names from different origins.
 
 Additionally, the names list are shipped in between the unified format and the gender-separate format (one file for boy names, such as `Emily`, and another one for girl names, such as `Natalie`). Please note that the gender-separate format doesn't contain all the names that are in the FirstNames.txt file under Processed.
 
 To see the demo of how it is used, visit [this page](https://aptivi.github.io/namegen) and click on the generate button. [Nitrocid KS](https://github.com/Aptivi/NitrocidKS) also contains the name generation feature, though you can select how many names, what do you start with (for example, names that start with `Th` such as `Thomas` and `Thalia`), and how do you end with (for example, names that end with `ah` such as `Sarah` and `Abdullah`).
 
 ### An example generated from the demo
+
+The output may vary, depending on the Textify version.
+
 ```
 Nadean Lancel
 Belo Daghistani
@@ -85,12 +88,17 @@ First names:
     - License: No license
   - https://github.com/FinNLP/humannames
     - Title: A list, huge one (~200K) of human male/female first/last names.
-    - Author: [Alex Corvi @FinNLP](https://github.com/FinNLP)
+    - Author: [Alex Corvi (@FinNLP)](https://github.com/FinNLP)
     - License: MIT License
   - https://github.com/devthejo/first-names-list
     - Title: first-names-list
     - Author: [@devthejo](https://github.com/devthejo)
     - License: No license
+  - https://github.com/philipperemy/name-dataset
+    - Title: The Python library for names
+    - Author: [Philippe Rémy (@philipperemy)](https://github.com/philipperemy)
+    - License: Apache License 2.0
+    - License URL: https://github.com/philipperemy/name-dataset/blob/master/LICENSE
 
 Surnames:
   - https://github.com/merishnaSuwal/indian_surnames_data
@@ -103,5 +111,10 @@ Surnames:
     - Author: Wikipedia and its contributors
     - License: CC BY-SA 3.0
     - License URL: https://creativecommons.org/licenses/by-sa/3.0/
+  - https://github.com/philipperemy/name-dataset
+    - Title: The Python library for names
+    - Author: [Philippe Rémy (@philipperemy)](https://github.com/philipperemy)
+    - License: Apache License 2.0
+    - License URL: https://github.com/philipperemy/name-dataset/blob/master/LICENSE
 
 For licenses of name databases that were used on the original project, you can find them [here](https://github.com/smashew/NameDatabases/blob/master/NamesDatabases/credits.txt).
