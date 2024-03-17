@@ -1,10 +1,24 @@
-## NamesList
+﻿## NamesList
 
 This names list constitutes over 700,000+ names and 900,000+ surnames. It is primarily used for [Textify](https://github.com/Aptivi/Textify), which is the name generation library for .NET projects, but you can make your own name generator using this list. It includes the variety of names from different origins.
 
 Additionally, the names list are shipped in between the unified format and the gender-separate format (one file for boy names, such as `Emily`, and another one for girl names, such as `Natalie`). Please note that the gender-separate format doesn't contain all the names that are in the FirstNames.txt file under Processed.
 
 To see the demo of how it is used, visit [this page](https://aptivi.github.io/namegen) and click on the generate button. [Nitrocid KS](https://github.com/Aptivi/NitrocidKS) also contains the name generation feature, though you can select how many names, what do you start with (for example, names that start with `Th` such as `Thomas` and `Thalia`), and how do you end with (for example, names that end with `ah` such as `Sarah` and `Abdullah`).
+
+For an exact representation of how many names we have, refer to the table below:
+
+| Type                          | File name                                                                     | Count
+|:------------------------------|:------------------------------------------------------------------------------|:-------
+| First names (all)             | [`FirstNames.txt`](Processed/FirstNames.txt)                                  | 764249
+| First names (female only)     | [`FirstNames_Female.txt`](Processed/FirstNames_Female.txt)                    | 224938
+| First names (male only)       | [`FirstNames_Male.txt`](Processed/FirstNames_Male.txt)                        | 339853
+| First names (implicit female) | [`FirstNames_Female_Implicit.txt`](Processed/FirstNames_Female_Implicit.txt)  | 429886
+| First names (implicit male)   | [`FirstNames_Male_Implicit.txt`](Processed/FirstNames_Male_Implicit.txt)      | 472278
+| First names (natural)         | [`FirstNames_Natural.txt`](Processed/FirstNames_Natural.txt)                  | 575589
+| Surnames                      | [`Surnames.txt`](Processed/Surnames.txt)                                      | 939952
+
+We also provide both [unprocessed](Sources/) sources and [processed](Sources/Processed) sources.
 
 ### An example generated from the demo
 
