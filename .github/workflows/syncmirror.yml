@@ -1,5 +1,12 @@
 name: 'Sync with GL mirror'
-on: push
+on:
+  push:
+    branches:
+      - '**'
+
+concurrency:
+  group: ${{ github.repository }}
+  cancel-in-progress: true
 
 jobs:
   sync:
@@ -10,6 +17,6 @@ jobs:
           submodules: 'true'
           fetch-depth: 0
       - name: Add mirror auth info
-        run: git remote add alternate https://AptiviCEO:${{ secrets.GL_APIKEY }}@gitlab.com/aptivi/analytics/NamesList.git
+        run: git remote add alternate https://AptiviCEO:${{ secrets.GL_APIKEY }}@gitlab.com/aptivi/analytics/${{ github.repository }}.git
       - name: Push to mirror
         run: git push alternate
